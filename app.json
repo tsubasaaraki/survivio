@@ -1,1 +1,8 @@
-
+{
+  "name": "surviv.io",
+  "description": "game",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/tsubasaaraki/survivio",
+  "keywords": ["survivio"],
+  "website": "https://github.com/tsubasaaraki"
+}
